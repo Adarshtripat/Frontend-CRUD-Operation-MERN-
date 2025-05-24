@@ -1,0 +1,7 @@
+function Home(){
+    return(<>
+    <h1>Home</h1>
+    <p>This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.This is Example of reactRedux Toolkit.</p>
+    </>)
+}
+export default Home;

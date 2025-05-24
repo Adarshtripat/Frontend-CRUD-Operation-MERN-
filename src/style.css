@@ -1,0 +1,13 @@
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 19px;
+}
+input[type='submit']{
+    height: 32px;
+    width: 308px;
+    background-color: black;
+    color: white;
+    font-size: 19px;
+    margin-top: 3px;
+}
